@@ -1,4 +1,4 @@
-# Changes make to test.js
+# Changes made to test.js
 Some minor issues were encountered with the test.js that prevents the test from working.
 
 Change list:
